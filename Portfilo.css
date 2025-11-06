@@ -1,0 +1,48 @@
+body {
+    background-color: darkgreen;
+}
+
+h1 {
+    color:white;
+}
+
+section p{
+    color:white;
+    font-size: 25px;
+}
+
+section h2{
+    color:white;
+}
+
+section h2, section p{
+    padding:10px;
+}
+
+section{
+    background-color: green;
+    
+}
+
+#Itch{
+    padding: 10px;
+}
+
+#TopNav{
+    display:flex;
+    flex-flow: row wrap;
+}
+
+nav a{
+    display: inline-block;
+    background-color: green;
+    color:aliceblue;
+    text-decoration: none;
+    padding: 5px;
+    flex: 1;
+    text-align: center;
+    margin:5px;
+}
+
+
+
